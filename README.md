@@ -4,7 +4,7 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 100%;height:5%">
 # 💫 About Me:
-🔭 I’m currently studing<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studing<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=saikumarkusangi&icon=1&color=1)](https://visitcount.itsvg.in)
