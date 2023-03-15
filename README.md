@@ -1,5 +1,5 @@
 <img
-  src="https://i.ibb.co/SKqK52X/programmer-developer-typing-script-source-260nw-2049248486.jpg"
+  src="https://news.microsoft.com/wp-content/uploads/prod/sites/430/2015/09/Code1.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 100%;height:5%">
@@ -26,5 +26,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Hello, world](http://i.imgur.com/c7GmAJf.png)](https://github.com/mappum)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
