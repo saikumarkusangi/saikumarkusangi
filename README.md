@@ -1,4 +1,8 @@
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img
+  src="https://i.ibb.co/SKqK52X/programmer-developer-typing-script-source-260nw-2049248486.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; width: 100%;height:5%">
 # 💫 About Me:
 🔭 I’m currently studing<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
